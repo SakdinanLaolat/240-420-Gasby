@@ -7,6 +7,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/240-420-Gasby",
   /**
    * Adding plugins to this array adds them to your Gatsby site.
    *
